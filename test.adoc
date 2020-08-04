@@ -1,0 +1,10 @@
+[mystyle]
+# My title
+
+Once *upon* a time
+there was something really weird
+But nobody dared to tell
+
+[# this_is_the_anchor]
+## Another title
+This subtitle is next to the title
